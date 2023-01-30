@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../project"
+		},
+		{
+			"path": "../cv"
+		},
+		{
+			"path": "../javieriza"
+		}
+	],
+	"settings": {}
+}
